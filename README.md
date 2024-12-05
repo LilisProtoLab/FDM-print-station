@@ -1,27 +1,17 @@
-# Open Hardware Documentation Template
-An easy use folder structure and instructions for setting up a repository for open-source hardware
-
-In this repository, we present a template, short instructions, and a folder structure for a repository for describing relatively small hardware projects.  
-The main goal of this work is to simplify starting such a repository at an early stage of the project and motivate team members to regularly update their documents in a structured way. 
-To keep it agile, filling in the necessary information for the first version repository should not take more than 10 minutes. 
-
-_Instructions to fill in this file are put in italic. Remove these when you are filling descriptions relevant to your project._
-
-_The introduction paragraph, right under the title, should explain the context of the project as well as why has it been initiated._
+# FDM print station
 
 ## Main features
-_This subsection is a very brief introduction to the context and key features of your project that could be interesting for a user in search of a solution_
-
-The most important file in the repository is the README.md in the root folder of the reposity.
-The headers used in the current README file are the most essential to present. 
-Some optional headers are suggested in curly brackets (...). 
-Try to present only the main information for the viewer to get started. 
-Detailed updates or build instructions are better suited for the subfolders such as `./Docs` or `./Results`.
-
-Next to the README file, a basic folder structure is also presented in this repository. 
-Each subfolder contains a `_readme.md` file that explains the conventions and purpose of that folder for the (future) collaborators to keep it tidy.
-
-This template is adjusted to the typical needs of a hardware project made for research or education. 
+This FDM print station contains:
++ One dry-air storage drawer with two compartments for spools of filament, flushed with dry compressed air to reach a humidity setpoint controlled via Home Assistant.
+	+ Building-supplied compressed air is fed through a membrane filter to reduce the moisture level
+   	+ Dried air is distributed to five compartments: two drawer compartments, and three printer compartments
+   	+ Home Assistant integration controls the humidity setpoints for the drawer compartments and the printer enclosures
+   	+ A screen on the front of the drawer displays the current humidity, temperature and door sensors + flushing status
+   	+ Door sensors make sure flushing is only active while the compartments are closed
++ Three printer enclosures with: vertical sliding doors; temperature, humidity and door sensors; dry air flushing; exhaust ventilation.
+	+ The enclosure is made from aluminium extrusions with 3mm PMMA sheet walls. The vertical sliding doors are 5mm PMMA sheets, with 3D printed handles and latches.
+ 	+ The sensors are connected to the same dried compressed air delivery system as the drawer compartments to optionally control humidity in the printer enclosures. This system only operates when the doors are closed.
+	+  The exhaust ventilation is connected to the building exhaust system and controlled via manual, 3D printed gate valves.
 
 ```
 .
@@ -50,17 +40,13 @@ It would be kind if you put a shortcut to your Bill of Materials file.
 This template can be copied free of charge. 
 
 ## Outcomes
-_Here you can list the outcomes of the project that you would like to hightlight. It does not need to be an exhaustive list_
 
-We will list some best practices and good examples from projects that have used this template for their documentation.
 
 ## Team
-_Even though platforms such as github show a list of user accounts for contributors for a project or repository, the past contributors or external collaborators also deserve a place here_
-
-+ Project initiator: Sanli Faez @sanlifaez
++ Project initiator: Pieter Kooijman @pkooijman
 + Contributors:
-	+ _add a list of main contributors_
-
+	+ Josh Hauser @catovector
+ 	+ Nico van Hijningen
 
 ## Get involved
 _Especially for open source projects, it is benefitial to motivate the potential users of the project to contribute back or share their feedback. Make it easy for them._
