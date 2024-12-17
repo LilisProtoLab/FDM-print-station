@@ -1,17 +1,24 @@
 # FDM print station
+For a number of FDM 3D printing materials it is of importance to store and use them under low relative humidity conditions. 
+For this purpose a station was designed, containing an adapter drawer with two storage compartments, and three 3D printer compartments. For each compartment relative humidity (and temperature) can be monitored and controlled by flushing with dried compressed air. 
 
 ## Main features
 This FDM print station contains:
-+ One dry-air storage drawer with two compartments for spools of filament, flushed with dry compressed air to reach a humidity setpoint controlled via Home Assistant.
-	+ Building-supplied compressed air is fed through a membrane filter to reduce the moisture level
++ A humidity control system
+	+ Building-supplied compressed air is fed through a membrane dryer (DM08G-19KA-N) to reduce the moisture level
+   	+ Each compartment contains a sensor unit which monitors temperature, humidity and door open status
+   		+ Door sensors make sure flushing is only active while the compartments are closed
+   	+ Five electronic valves direct the flow of pressured air to each compartment
    	+ Dried air is distributed to five compartments: two drawer compartments, and three printer compartments
-   	+ Home Assistant integration controls the humidity setpoints for the drawer compartments and the printer enclosures
-   	+ A screen on the front of the drawer displays the current humidity, temperature and door sensors + flushing status
-   	+ Door sensors make sure flushing is only active while the compartments are closed
-+ Three printer enclosures with: vertical sliding doors; temperature, humidity and door sensors; dry air flushing; exhaust ventilation.
-	+ The enclosure is made from aluminium extrusions with 3mm PMMA sheet walls. The vertical sliding doors are 5mm PMMA sheets, with 3D printed handles and latches.
- 	+ The sensors are connected to the same dried compressed air delivery system as the drawer compartments to optionally control humidity in the printer enclosures. This system only operates when the doors are closed.
+   	+ Home Assistant integration controls the humidity setpoints for the drawer compartments (typically 12%) and the printer enclosures (typically 20%)
++ One filament storage drawer with two compartments
+	+ A pre-existing drawer is supplemented with a transparant PMMA enclosure for convenient selection of materials with the lids closed	
+	+ A screen mounted to the drawer displays the current humidity, temperature and door sensors + flushing status of all compartments
++ Three printer enclosures
+	+ vertical sliding doors for minimal obstruction from 5mm PMMA sheets, with 3D printed handles and latches.
 	+  The exhaust ventilation is connected to the building exhaust system and controlled via manual, 3D printed gate valves.
+	+ The enclosure is made from aluminium extrusions with 3mm PMMA sheet walls
+
 
 ```
 .
