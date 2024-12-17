@@ -30,7 +30,7 @@ The cover sensors (s1..s5) are connected to MCP23008, an 8-bit bidirectional I/O
 Due to the longer leads, the I2C-bus frequency is limited to 100 kHz.
  
 
-Compartment module:
+Compartment module: 
 ![image](https://github.com/user-attachments/assets/07974c43-5410-4dbf-9ab7-0592ad5aaf2b)
 
 
