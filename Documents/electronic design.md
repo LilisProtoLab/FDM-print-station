@@ -5,7 +5,7 @@ The compartments (containing the rH and cover sensors) are connected with the ce
 The I2C-bus protocol is used to communicate with the rH sensors. 
 A power supply (12V/2.5A) is connected to the central unit.
 A 5-valve unit is connected to the central unit.
-![](2024-12-17-15-07-21.png)
+
 Parts:
 MCU: Wemos D1 mini. The wifi enables connection with Home Assistant, it is compact, cheap, and can be programmed with the Arduino IDE. 
 Humidity sensors: AM2320
@@ -37,3 +37,6 @@ Also, an extra connector is foreseen to enable access to a I2C-display.
 The cover sensor is connected to pin 6.
 
 The 3V3 OLED-display can also be connected to the I2C-bus. Since Vcc = 5V,  a small I2C bi-directional 5V-3.3V level converter is required. 
+
+
+[def]: 2024-12-17-15-07-21.png
