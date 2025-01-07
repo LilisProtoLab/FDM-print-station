@@ -2,6 +2,8 @@
 For a number of FDM 3D printing materials it is of importance to store and use them under low relative humidity conditions. 
 For this purpose a station was designed, containing an adapter drawer with two storage compartments, and three 3D printer compartments. For each compartment relative humidity (and temperature) can be monitored and controlled by flushing with dried compressed air. 
 
+![DSCF2053](https://github.com/user-attachments/assets/955ea29a-7b75-4236-8997-f3036e261ff5)
+
 ## Main features
 This FDM print station contains:
 + A humidity control system
