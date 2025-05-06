@@ -54,7 +54,7 @@ This template can be copied free of charge.
 ## Team
 + Project initiator: Pieter Kooijman @pkooijman
 + Contributors:
-	+ Josh Hauser @catovector
+	+ Josh Hauser @catoprovector
  	+ Nico van Hijningen
 
 ## Get involved
