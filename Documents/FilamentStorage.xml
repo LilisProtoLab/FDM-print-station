@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\nvhij\Documents\UU\Filament magazijn\Electronics\FilamentSttorage_V2_0\FilamentStorage.kicad_sch</source>
+    <date>13/05/2024 14:26:52</date>
+    <tool>Eeschema (6.0.8)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Filament storage</title>
+        <company>Lili's Proto Lab</company>
+        <rev>1</rev>
+        <date>2024-04-28</date>
+        <source>FilamentStorage.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Cabinet4/" tstamps="/d9b1c0e4-db8b-40ea-90ff-843f90ad4ab5/">
+      <title_block>
+        <title>Filament storage</title>
+        <company>Lili's Proto Lab</company>
+        <rev>1</rev>
+        <date>2024-04-28</date>
+        <source>cabinet.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Cabinet/" tstamps="/ffb5b867-7ba4-428e-b9ba-b07a44327902/">
+      <title_block>
+        <title>Filament storage</title>
+        <company>Lili's Proto Lab</company>
+        <rev>1</rev>
+        <date>2024-04-28</date>
+        <source>cabinet.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/">
+      <title_block>
+        <title>Filament storage</title>
+        <company>Lili's Proto Lab</company>
+        <rev>1</rev>
+        <date>2024-04-28</date>
+        <source>mainboard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Cabinet1/" tstamps="/abc3476c-8042-4b8e-84ce-7e39263d0a79/">
+      <title_block>
+        <title>Filament storage</title>
+        <company>Lili's Proto Lab</company>
+        <rev>1</rev>
+        <date>2024-04-28</date>
+        <source>cabinet.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Power supply/" tstamps="/18bd5a76-0438-4f86-96ac-0e31105de17f/">
+      <title_block>
+        <title>Filament storage</title>
+        <company>Lili's Proto Lab</company>
+        <rev>1</rev>
+        <date>2024-04-28</date>
+        <source>power_supply.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Cabinet2/" tstamps="/7270b437-9e7d-4ad4-b5b1-919accb63c45/">
+      <title_block>
+        <title>Filament storage</title>
+        <company>Lili's Proto Lab</company>
+        <rev>1</rev>
+        <date>2024-04-28</date>
+        <source>cabinet.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Cabinet3/" tstamps="/db342f63-6382-4c00-acf9-fb436a95ff98/">
+      <title_block>
+        <title>Filament storage</title>
+        <company>Lili's Proto Lab</company>
+        <rev>1</rev>
+        <date>2024-04-28</date>
+        <source>cabinet.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J203">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Cabinet4"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet4/" tstamps="/d9b1c0e4-db8b-40ea-90ff-843f90ad4ab5/"/>
+      <tstamps>a6f9de65-dcf5-4e68-b41f-989c05d81af2</tstamps>
+    </comp>
+    <comp ref="J204">
+      <value>I2C</value>
+      <footprint>Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Cabinet4"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet4/" tstamps="/d9b1c0e4-db8b-40ea-90ff-843f90ad4ab5/"/>
+      <tstamps>5d7eff6b-9b31-4ceb-9fac-a4f111df5ea2</tstamps>
+    </comp>
+    <comp ref="J205">
+      <value>6P6C</value>
+      <footprint>Connector_RJ:RJ12_Amphenol_54601</footprint>
+      <libsource lib="Connector" part="6P6C" description="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="Sheetname" value="Cabinet4"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet4/" tstamps="/d9b1c0e4-db8b-40ea-90ff-843f90ad4ab5/"/>
+      <tstamps>e33b86ff-fd2d-49b0-871e-ccf0e6eb294f</tstamps>
+    </comp>
+    <comp ref="U201">
+      <value>AM2320</value>
+      <footprint>NVH_Library:AM2320_horizontal</footprint>
+      <libsource lib="NVH_Library" part="AM2320" description=""/>
+      <property name="Sheetname" value="Cabinet4"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet4/" tstamps="/d9b1c0e4-db8b-40ea-90ff-843f90ad4ab5/"/>
+      <tstamps>0a9115d4-75a9-4b40-aab9-96d33d575780</tstamps>
+    </comp>
+    <comp ref="J201">
+      <value>6P6C</value>
+      <footprint>Connector_RJ:RJ12_Amphenol_54601</footprint>
+      <libsource lib="Connector" part="6P6C" description="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="Sheetname" value="Cabinet"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet/" tstamps="/ffb5b867-7ba4-428e-b9ba-b07a44327902/"/>
+      <tstamps>e33b86ff-fd2d-49b0-871e-ccf0e6eb294f</tstamps>
+    </comp>
+    <comp ref="J202">
+      <value>I2C</value>
+      <footprint>Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Cabinet"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet/" tstamps="/ffb5b867-7ba4-428e-b9ba-b07a44327902/"/>
+      <tstamps>5d7eff6b-9b31-4ceb-9fac-a4f111df5ea2</tstamps>
+    </comp>
+    <comp ref="J301">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Cabinet"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet/" tstamps="/ffb5b867-7ba4-428e-b9ba-b07a44327902/"/>
+      <tstamps>a6f9de65-dcf5-4e68-b41f-989c05d81af2</tstamps>
+    </comp>
+    <comp ref="U301">
+      <value>AM2320</value>
+      <footprint>NVH_Library:AM2320_horizontal</footprint>
+      <libsource lib="NVH_Library" part="AM2320" description=""/>
+      <property name="Sheetname" value="Cabinet"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet/" tstamps="/ffb5b867-7ba4-428e-b9ba-b07a44327902/"/>
+      <tstamps>0a9115d4-75a9-4b40-aab9-96d33d575780</tstamps>
+    </comp>
+    <comp ref="C301">
+      <value>22n</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>eb19cd21-990c-4324-9df8-8ff41de23695</tstamps>
+    </comp>
+    <comp ref="C401">
+      <value>10uF/50V</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>d5d3a48c-4a12-4b70-8c7e-d04767cc7050</tstamps>
+    </comp>
+    <comp ref="C402">
+      <value>10uF/10V</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>ce448f61-ac2f-4574-93fb-65b5208dba95</tstamps>
+    </comp>
+    <comp ref="C403">
+      <value>22n</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>cc7af427-0188-41c0-9feb-c2858a1e037f</tstamps>
+    </comp>
+    <comp ref="C404">
+      <value>22n</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>f9d88eeb-fa3c-4335-9bbd-aa0af1b63177</tstamps>
+    </comp>
+    <comp ref="D301">
+      <value>1N4007</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>834ac7b3-c883-4b79-ad02-ba4c58e6367c</tstamps>
+    </comp>
+    <comp ref="D302">
+      <value>1N4007</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>6a5b7104-37f9-4397-8107-9cf64bead990</tstamps>
+    </comp>
+    <comp ref="D303">
+      <value>1N4007</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>293216fa-9ca2-4bd5-be1b-a9d947ded7d2</tstamps>
+    </comp>
+    <comp ref="D304">
+      <value>1N4007</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>7f6549a4-a15f-4a22-88b1-16c91cda2fef</tstamps>
+    </comp>
+    <comp ref="D305">
+      <value>1N4007</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>23e495b4-341c-4ae3-aa6c-07b273c2b918</tstamps>
+    </comp>
+    <comp ref="D306">
+      <value>1N5819</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88525/1n5817.pdf</datasheet>
+      <libsource lib="Diode" part="1N5819" description="40V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>47fe60fa-ef35-49aa-a5f1-e9b68d729408</tstamps>
+    </comp>
+    <comp ref="H301">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>f5505ade-079e-4fca-8482-cbe28b138605</tstamps>
+    </comp>
+    <comp ref="H302">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>d18b1f9c-6d0f-462d-a47e-eadf331874e8</tstamps>
+    </comp>
+    <comp ref="H303">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>6dc074b5-e7bf-4bee-abe9-933f0af835c6</tstamps>
+    </comp>
+    <comp ref="H304">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>979a2243-b8cd-47ab-b1e4-06a726f6afb3</tstamps>
+    </comp>
+    <comp ref="J303">
+      <value>Valve1</value>
+      <footprint>TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>81a71f42-8124-4b8c-9081-f23a22b1d035</tstamps>
+    </comp>
+    <comp ref="J304">
+      <value>Valve2</value>
+      <footprint>TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>269661d8-37ed-4492-9211-6c612e02deea</tstamps>
+    </comp>
+    <comp ref="J305">
+      <value>Valve3</value>
+      <footprint>TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>82aca392-f996-4524-936e-14387065c5c2</tstamps>
+    </comp>
+    <comp ref="J306">
+      <value>Valve4</value>
+      <footprint>TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>607bec8b-950f-49a3-812b-3c4bdceb8390</tstamps>
+    </comp>
+    <comp ref="J307">
+      <value>Valve5</value>
+      <footprint>TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>340c59d4-e97f-4fc7-b9e5-e0a9350fb3ae</tstamps>
+    </comp>
+    <comp ref="J401">
+      <value>Barrel_Jack_Switch</value>
+      <footprint>Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002</footprint>
+      <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>d6d9d813-438e-4281-a375-57fa71e58458</tstamps>
+    </comp>
+    <comp ref="J402">
+      <value>LCD displsay</value>
+      <footprint>NVH_Library:PinHeader_1x04_P2.54mm_Horizontal_1left</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>98e8d332-19dd-4e25-aaf0-7d8d14545738</tstamps>
+    </comp>
+    <comp ref="J403">
+      <value>Valve1</value>
+      <footprint>Connector_RJ:RJ12_Amphenol_54601</footprint>
+      <libsource lib="Connector" part="6P6C" description="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>bbd2ec4c-e674-4d5c-9540-1d489ef23f1a</tstamps>
+    </comp>
+    <comp ref="J404">
+      <value>Valve2</value>
+      <footprint>Connector_RJ:RJ12_Amphenol_54601</footprint>
+      <libsource lib="Connector" part="6P6C" description="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>97a405ec-b7ac-4476-bee9-f491340bdbf5</tstamps>
+    </comp>
+    <comp ref="J405">
+      <value>Valve3</value>
+      <footprint>Connector_RJ:RJ12_Amphenol_54601</footprint>
+      <libsource lib="Connector" part="6P6C" description="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>a9eda83c-9396-47fd-81ca-042ff21241f5</tstamps>
+    </comp>
+    <comp ref="J406">
+      <value>Valve4</value>
+      <footprint>Connector_RJ:RJ12_Amphenol_54601</footprint>
+      <libsource lib="Connector" part="6P6C" description="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>c507d00e-779f-4696-a0df-b7a54cb2f9e6</tstamps>
+    </comp>
+    <comp ref="J407">
+      <value>+ buzzer -</value>
+      <footprint>TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>6deab436-7860-41ff-9190-0e6c49ec6e51</tstamps>
+    </comp>
+    <comp ref="J410">
+      <value>Valve5</value>
+      <footprint>Connector_RJ:RJ12_Amphenol_54601</footprint>
+      <libsource lib="Connector" part="6P6C" description="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>6397666c-d279-410a-9e69-72c3aebe638c</tstamps>
+    </comp>
+    <comp ref="Q301">
+      <value>IRLZ34N</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.infineon.com/dgdl/irlz34npbf.pdf?fileId=5546d462533600a40153567206892720</datasheet>
+      <libsource lib="Transistor_FET" part="IRLZ34N" description="30A Id, 55V Vds, 35mOhm Rds, N-Channel HEXFET Power MOSFET, TO-220AB"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>c8a4efc1-7b5d-4844-b085-1b4630915653</tstamps>
+    </comp>
+    <comp ref="Q302">
+      <value>IRLZ34N</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.infineon.com/dgdl/irlz34npbf.pdf?fileId=5546d462533600a40153567206892720</datasheet>
+      <libsource lib="Transistor_FET" part="IRLZ34N" description="30A Id, 55V Vds, 35mOhm Rds, N-Channel HEXFET Power MOSFET, TO-220AB"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>0caf2a48-0ea6-47ca-89a5-c13ce8759eba</tstamps>
+    </comp>
+    <comp ref="Q303">
+      <value>IRLZ34N</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.infineon.com/dgdl/irlz34npbf.pdf?fileId=5546d462533600a40153567206892720</datasheet>
+      <libsource lib="Transistor_FET" part="IRLZ34N" description="30A Id, 55V Vds, 35mOhm Rds, N-Channel HEXFET Power MOSFET, TO-220AB"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>7cf0573b-7e36-4f0b-a2d1-3625bf235d6e</tstamps>
+    </comp>
+    <comp ref="Q304">
+      <value>IRLZ34N</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.infineon.com/dgdl/irlz34npbf.pdf?fileId=5546d462533600a40153567206892720</datasheet>
+      <libsource lib="Transistor_FET" part="IRLZ34N" description="30A Id, 55V Vds, 35mOhm Rds, N-Channel HEXFET Power MOSFET, TO-220AB"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>da052f91-3153-4adb-b7d8-8a85dd7cda26</tstamps>
+    </comp>
+    <comp ref="Q305">
+      <value>IRLZ34N</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.infineon.com/dgdl/irlz34npbf.pdf?fileId=5546d462533600a40153567206892720</datasheet>
+      <libsource lib="Transistor_FET" part="IRLZ34N" description="30A Id, 55V Vds, 35mOhm Rds, N-Channel HEXFET Power MOSFET, TO-220AB"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>d45af737-a358-47aa-9aed-31031c07aa83</tstamps>
+    </comp>
+    <comp ref="R301">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>8403a6ed-a900-4562-b7e1-6ac4befc46e8</tstamps>
+    </comp>
+    <comp ref="R302">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>376c6ae6-64a3-4a2e-b252-90d2841389b3</tstamps>
+    </comp>
+    <comp ref="R303">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>e486fbae-141f-4854-8bb2-f77659c789d5</tstamps>
+    </comp>
+    <comp ref="R304">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>0fb5c16c-e62e-4229-a11a-ac6d8c3559a5</tstamps>
+    </comp>
+    <comp ref="R305">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>100ce709-8e08-4df6-a9ed-026468f41ab5</tstamps>
+    </comp>
+    <comp ref="R401">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>39d360de-adf6-4fc1-a787-9212d9f2b023</tstamps>
+    </comp>
+    <comp ref="R402">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>44732cc5-8a05-47c7-9aa8-fb47a67848b3</tstamps>
+    </comp>
+    <comp ref="R403">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>1a2c64d1-ea30-4806-85e6-6f61b395cd8c</tstamps>
+    </comp>
+    <comp ref="R404">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>ff1214d5-7b38-40f7-bbc4-c759d5d1641c</tstamps>
+    </comp>
+    <comp ref="R405">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>83f410e4-3eed-4e16-8cc8-14d8974eefc1</tstamps>
+    </comp>
+    <comp ref="R406">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>b099aa56-3417-42a5-bcb2-7bdf0c9d8ba8</tstamps>
+    </comp>
+    <comp ref="R407">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>a169d850-4650-4152-8645-7c919b7c758b</tstamps>
+    </comp>
+    <comp ref="R408">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>5be95505-22cd-48da-9675-4f28910c48f5</tstamps>
+    </comp>
+    <comp ref="R409">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>f925f8cf-af0f-4f02-89b4-a6636be0474c</tstamps>
+    </comp>
+    <comp ref="R410">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>4bc01d15-1550-40f8-9884-8ec9b25aba82</tstamps>
+    </comp>
+    <comp ref="R411">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>0bbabb2b-2a62-419d-88e2-f03013801eda</tstamps>
+    </comp>
+    <comp ref="R412">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>a9147280-1fe6-4749-9b92-1a620af241f1</tstamps>
+    </comp>
+    <comp ref="R413">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>408d7080-50c1-4c4c-9e02-26f0fe8ea06a</tstamps>
+    </comp>
+    <comp ref="R414">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>7cfa5546-a8d9-435e-905c-bb0d1bd5072a</tstamps>
+    </comp>
+    <comp ref="R415">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>9312d9c4-4d19-4e62-945c-58bcb242223a</tstamps>
+    </comp>
+    <comp ref="R416">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>6d639929-0912-4653-beda-1bab1c23bc47</tstamps>
+    </comp>
+    <comp ref="R417">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>94baaa3c-bd13-4cf2-8539-b2c5a2c2653e</tstamps>
+    </comp>
+    <comp ref="R418">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>b24fd5e6-a47d-4601-8dce-78b0255cd2ab</tstamps>
+    </comp>
+    <comp ref="R419">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>6956fe5b-e6b7-4ef3-9b82-6618589ecdaa</tstamps>
+    </comp>
+    <comp ref="R420">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>d37d16f8-e0ee-4046-b976-8743e43a4440</tstamps>
+    </comp>
+    <comp ref="U401">
+      <value>TSR_1-2450</value>
+      <footprint>Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT</footprint>
+      <datasheet>http://www.tracopower.com/products/tsr1.pdf</datasheet>
+      <libsource lib="Regulator_Switching" part="TSR_1-2450" description="1A step-down regulator module, fixed 5V output voltage, 5-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>f16995a0-cb4b-4ba3-bbfb-74b1fdb81443</tstamps>
+    </comp>
+    <comp ref="U402">
+      <value>PCA9548ADW</value>
+      <footprint>Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/pca9548a.pdf</datasheet>
+      <libsource lib="Interface_Expansion" part="PCA9548ADW" description="Low voltage 8-channel I2C switch with reset, SOIC-24"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>5cf9b9ff-2b42-4994-89c5-91ed1a5dcb5d</tstamps>
+    </comp>
+    <comp ref="U403">
+      <value>WeMos_D1_mini V3</value>
+      <footprint>Module:WEMOS_D1_mini_light</footprint>
+      <datasheet>https://wiki.wemos.cc/products:d1:d1_mini#documentation</datasheet>
+      <libsource lib="MCU_Module" part="WeMos_D1_mini" description="32-bit microcontroller module with WiFi"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>cd7fc189-8731-4463-9ad3-97b55e8be1ab</tstamps>
+    </comp>
+    <comp ref="U404">
+      <value>MCP23008-xSO</value>
+      <footprint>Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP23008-MCP23S08-Data-Sheet-20001919F.pdf</datasheet>
+      <libsource lib="Interface_Expansion" part="MCP23008-xSO" description="8-bit I/O expander, I2C, interrupts, SOIC-18"/>
+      <property name="Sheetname" value="Main board"/>
+      <property name="Sheetfile" value="File: mainboard.kicad_sch"/>
+      <sheetpath names="/Main board/" tstamps="/715215d8-d219-4ea5-9ea2-296db97260cd/"/>
+      <tstamps>aeeb2bf5-ccd1-4d75-9dc9-a135251285e9</tstamps>
+    </comp>
+    <comp ref="J408">
+      <value>6P6C</value>
+      <footprint>Connector_RJ:RJ12_Amphenol_54601</footprint>
+      <libsource lib="Connector" part="6P6C" description="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="Sheetname" value="Cabinet1"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet1/" tstamps="/abc3476c-8042-4b8e-84ce-7e39263d0a79/"/>
+      <tstamps>e33b86ff-fd2d-49b0-871e-ccf0e6eb294f</tstamps>
+    </comp>
+    <comp ref="J409">
+      <value>I2C</value>
+      <footprint>Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Cabinet1"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet1/" tstamps="/abc3476c-8042-4b8e-84ce-7e39263d0a79/"/>
+      <tstamps>5d7eff6b-9b31-4ceb-9fac-a4f111df5ea2</tstamps>
+    </comp>
+    <comp ref="J501">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Cabinet1"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet1/" tstamps="/abc3476c-8042-4b8e-84ce-7e39263d0a79/"/>
+      <tstamps>a6f9de65-dcf5-4e68-b41f-989c05d81af2</tstamps>
+    </comp>
+    <comp ref="U501">
+      <value>AM2320</value>
+      <footprint>NVH_Library:AM2320_horizontal</footprint>
+      <libsource lib="NVH_Library" part="AM2320" description=""/>
+      <property name="Sheetname" value="Cabinet1"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet1/" tstamps="/abc3476c-8042-4b8e-84ce-7e39263d0a79/"/>
+      <tstamps>0a9115d4-75a9-4b40-aab9-96d33d575780</tstamps>
+    </comp>
+    <comp ref="J601">
+      <value>6P6C</value>
+      <footprint>Connector_RJ:RJ12_Amphenol_54601</footprint>
+      <libsource lib="Connector" part="6P6C" description="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="Sheetname" value="Cabinet2"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet2/" tstamps="/7270b437-9e7d-4ad4-b5b1-919accb63c45/"/>
+      <tstamps>e33b86ff-fd2d-49b0-871e-ccf0e6eb294f</tstamps>
+    </comp>
+    <comp ref="J602">
+      <value>I2C</value>
+      <footprint>Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Cabinet2"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet2/" tstamps="/7270b437-9e7d-4ad4-b5b1-919accb63c45/"/>
+      <tstamps>5d7eff6b-9b31-4ceb-9fac-a4f111df5ea2</tstamps>
+    </comp>
+    <comp ref="J701">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Cabinet2"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet2/" tstamps="/7270b437-9e7d-4ad4-b5b1-919accb63c45/"/>
+      <tstamps>a6f9de65-dcf5-4e68-b41f-989c05d81af2</tstamps>
+    </comp>
+    <comp ref="U701">
+      <value>AM2320</value>
+      <footprint>NVH_Library:AM2320_horizontal</footprint>
+      <libsource lib="NVH_Library" part="AM2320" description=""/>
+      <property name="Sheetname" value="Cabinet2"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet2/" tstamps="/7270b437-9e7d-4ad4-b5b1-919accb63c45/"/>
+      <tstamps>0a9115d4-75a9-4b40-aab9-96d33d575780</tstamps>
+    </comp>
+    <comp ref="J702">
+      <value>6P6C</value>
+      <footprint>Connector_RJ:RJ12_Amphenol_54601</footprint>
+      <libsource lib="Connector" part="6P6C" description="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="Sheetname" value="Cabinet3"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet3/" tstamps="/db342f63-6382-4c00-acf9-fb436a95ff98/"/>
+      <tstamps>e33b86ff-fd2d-49b0-871e-ccf0e6eb294f</tstamps>
+    </comp>
+    <comp ref="J703">
+      <value>I2C</value>
+      <footprint>Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Cabinet3"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet3/" tstamps="/db342f63-6382-4c00-acf9-fb436a95ff98/"/>
+      <tstamps>5d7eff6b-9b31-4ceb-9fac-a4f111df5ea2</tstamps>
+    </comp>
+    <comp ref="J801">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Cabinet3"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet3/" tstamps="/db342f63-6382-4c00-acf9-fb436a95ff98/"/>
+      <tstamps>a6f9de65-dcf5-4e68-b41f-989c05d81af2</tstamps>
+    </comp>
+    <comp ref="U801">
+      <value>AM2320</value>
+      <footprint>NVH_Library:AM2320_horizontal</footprint>
+      <libsource lib="NVH_Library" part="AM2320" description=""/>
+      <property name="Sheetname" value="Cabinet3"/>
+      <property name="Sheetfile" value="File: cabinet.kicad_sch"/>
+      <sheetpath names="/Cabinet3/" tstamps="/db342f63-6382-4c00-acf9-fb436a95ff98/"/>
+      <tstamps>0a9115d4-75a9-4b40-aab9-96d33d575780</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="6P6C">
+      <description>RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>6P6C*</fp>
+        <fp>RJ12*</fp>
+        <fp>RJ18*</fp>
+        <fp>RJ25*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">6P6C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Barrel_Jack_Switch">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Female">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4007">
+      <description>1000V 1A General Purpose Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88503/1n4001.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4007</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88503/1n4001.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5819">
+      <description>40V 1A Schottky Barrier Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88525/1n5817.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5819</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88525/1n5817.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_Expansion" part="MCP23008-xSO">
+      <description>8-bit I/O expander, I2C, interrupts, SOIC-18</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP23008-MCP23S08-Data-Sheet-20001919F.pdf</docs>
+      <footprints>
+        <fp>SOIC*7.5x11.6mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP23008-xSO</field>
+        <field name="Footprint">Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/MCP23008-MCP23S08-Data-Sheet-20001919F.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SCL" type="input"/>
+        <pin num="2" name="SDA" type="bidirectional"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="A1" type="input"/>
+        <pin num="5" name="A0" type="input"/>
+        <pin num="6" name="~{RESET}" type="input"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="INT" type="output"/>
+        <pin num="9" name="VSS" type="power_in"/>
+        <pin num="10" name="GP0" type="bidirectional"/>
+        <pin num="11" name="GP1" type="bidirectional"/>
+        <pin num="12" name="GP2" type="bidirectional"/>
+        <pin num="13" name="GP3" type="bidirectional"/>
+        <pin num="14" name="GP4" type="bidirectional"/>
+        <pin num="15" name="GP5" type="bidirectional"/>
+        <pin num="16" name="GP6" type="bidirectional"/>
+        <pin num="17" name="GP7" type="bidirectional"/>
+        <pin num="18" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_Expansion" part="PCA9548ADW">
+      <description>Low voltage 8-channel I2C switch with reset, SOIC-24</description>
+      <docs>http://www.ti.com/lit/ds/symlink/pca9548a.pdf</docs>
+      <footprints>
+        <fp>SOIC*7.5x15.4mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCA9548ADW</field>
+        <field name="Footprint">Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/pca9548a.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="~{RESET}" type="input"/>
+        <pin num="4" name="SD0" type="bidirectional"/>
+        <pin num="5" name="SC0" type="output"/>
+        <pin num="6" name="SD1" type="bidirectional"/>
+        <pin num="7" name="SC1" type="output"/>
+        <pin num="8" name="SD2" type="bidirectional"/>
+        <pin num="9" name="SC2" type="output"/>
+        <pin num="10" name="SD3" type="bidirectional"/>
+        <pin num="11" name="SC3" type="output"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="SD4" type="bidirectional"/>
+        <pin num="14" name="SC4" type="output"/>
+        <pin num="15" name="SD5" type="bidirectional"/>
+        <pin num="16" name="SC5" type="output"/>
+        <pin num="17" name="SD6" type="bidirectional"/>
+        <pin num="18" name="SC6" type="output"/>
+        <pin num="19" name="SD7" type="bidirectional"/>
+        <pin num="20" name="SC7" type="output"/>
+        <pin num="21" name="A2" type="input"/>
+        <pin num="22" name="SCL" type="input"/>
+        <pin num="23" name="SDA" type="bidirectional"/>
+        <pin num="24" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Module" part="WeMos_D1_mini">
+      <description>32-bit microcontroller module with WiFi</description>
+      <docs>https://wiki.wemos.cc/products:d1:d1_mini#documentation</docs>
+      <footprints>
+        <fp>WEMOS*D1*mini*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">WeMos_D1_mini</field>
+        <field name="Footprint">Module:WEMOS_D1_mini_light</field>
+        <field name="Datasheet">https://wiki.wemos.cc/products:d1:d1_mini#documentation</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{RST}" type="input"/>
+        <pin num="2" name="A0" type="input"/>
+        <pin num="3" name="D0" type="bidirectional"/>
+        <pin num="4" name="SCK/D5" type="bidirectional"/>
+        <pin num="5" name="MISO/D6" type="bidirectional"/>
+        <pin num="6" name="MOSI/D7" type="bidirectional"/>
+        <pin num="7" name="CS/D8" type="bidirectional"/>
+        <pin num="8" name="3V3" type="power_out"/>
+        <pin num="9" name="5V" type="power_in"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="D4" type="bidirectional"/>
+        <pin num="12" name="D3" type="bidirectional"/>
+        <pin num="13" name="SDA/D2" type="bidirectional"/>
+        <pin num="14" name="SCL/D1" type="bidirectional"/>
+        <pin num="15" name="RX" type="input"/>
+        <pin num="16" name="TX" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="NVH_Library" part="AM2320">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AM2320</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vcc" type="power_in"/>
+        <pin num="2" name="SDA" type="bidirectional"/>
+        <pin num="3" name="gnd" type="power_in"/>
+        <pin num="4" name="SCL" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="TSR_1-2450">
+      <description>1A step-down regulator module, fixed 5V output voltage, 5-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement</description>
+      <docs>http://www.tracopower.com/products/tsr1.pdf</docs>
+      <footprints>
+        <fp>Converter*DCDC*TRACO*TSR?1*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TSR_1-2450</field>
+        <field name="Footprint">Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT</field>
+        <field name="Datasheet">http://www.tracopower.com/products/tsr1.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vin" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="Vout" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="IRLZ34N">
+      <description>30A Id, 55V Vds, 35mOhm Rds, N-Channel HEXFET Power MOSFET, TO-220AB</description>
+      <docs>http://www.infineon.com/dgdl/irlz34npbf.pdf?fileId=5546d462533600a40153567206892720</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IRLZ34N</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">http://www.infineon.com/dgdl/irlz34npbf.pdf?fileId=5546d462533600a40153567206892720</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Interface_Expansion">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Interface_Expansion.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Module">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_Module.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="NVH_Library">
+      <uri>C:/Users/nvhij/Documents/KiCad/NVH_Library/NVH_Library.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C301" pin="1" pintype="passive"/>
+      <node ref="C404" pin="1" pintype="passive"/>
+      <node ref="R401" pin="2" pintype="passive"/>
+      <node ref="R402" pin="2" pintype="passive"/>
+      <node ref="R403" pin="2" pintype="passive"/>
+      <node ref="R404" pin="2" pintype="passive"/>
+      <node ref="R405" pin="2" pintype="passive"/>
+      <node ref="R406" pin="2" pintype="passive"/>
+      <node ref="R407" pin="2" pintype="passive"/>
+      <node ref="R416" pin="2" pintype="passive"/>
+      <node ref="U402" pin="24" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U403" pin="8" pinfunction="3V3" pintype="power_out"/>
+      <node ref="U404" pin="18" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C402" pin="1" pintype="passive"/>
+      <node ref="C403" pin="1" pintype="passive"/>
+      <node ref="D306" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J402" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J403" pin="2" pintype="passive"/>
+      <node ref="J404" pin="2" pintype="passive"/>
+      <node ref="J405" pin="2" pintype="passive"/>
+      <node ref="J406" pin="2" pintype="passive"/>
+      <node ref="J410" pin="2" pintype="passive"/>
+      <node ref="R408" pin="1" pintype="passive"/>
+      <node ref="R409" pin="1" pintype="passive"/>
+      <node ref="R410" pin="1" pintype="passive"/>
+      <node ref="R411" pin="1" pintype="passive"/>
+      <node ref="R412" pin="1" pintype="passive"/>
+      <node ref="R413" pin="1" pintype="passive"/>
+      <node ref="R414" pin="1" pintype="passive"/>
+      <node ref="R415" pin="1" pintype="passive"/>
+      <node ref="R417" pin="1" pintype="passive"/>
+      <node ref="R418" pin="1" pintype="passive"/>
+      <node ref="R419" pin="2" pintype="passive"/>
+      <node ref="R420" pin="2" pintype="passive"/>
+      <node ref="U403" pin="9" pinfunction="5V" pintype="power_in"/>
+    </net>
+    <net code="3" name="/12VA">
+      <node ref="C401" pin="1" pintype="passive"/>
+      <node ref="D301" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D302" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D303" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D304" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D305" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J303" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J304" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J305" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J306" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J307" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J401" pin="1" pintype="passive"/>
+      <node ref="U401" pin="1" pinfunction="Vin" pintype="power_in"/>
+    </net>
+    <net code="4" name="/Cabinet/shield">
+      <node ref="J201" pin="1" pintype="passive"/>
+      <node ref="J202" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J301" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U301" pin="3" pinfunction="gnd" pintype="power_in"/>
+    </net>
+    <net code="5" name="/Cabinet1/shield">
+      <node ref="J408" pin="1" pintype="passive"/>
+      <node ref="J409" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J501" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U501" pin="3" pinfunction="gnd" pintype="power_in"/>
+    </net>
+    <net code="6" name="/Cabinet2/shield">
+      <node ref="J601" pin="1" pintype="passive"/>
+      <node ref="J602" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J701" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U701" pin="3" pinfunction="gnd" pintype="power_in"/>
+    </net>
+    <net code="7" name="/Cabinet3/shield">
+      <node ref="J702" pin="1" pintype="passive"/>
+      <node ref="J703" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J801" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U801" pin="3" pinfunction="gnd" pintype="power_in"/>
+    </net>
+    <net code="8" name="/Cabinet4/shield">
+      <node ref="J203" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J204" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J205" pin="1" pintype="passive"/>
+      <node ref="U201" pin="3" pinfunction="gnd" pintype="power_in"/>
+    </net>
+    <net code="9" name="/Main board/b1">
+      <node ref="J407" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U404" pin="10" pinfunction="GP0" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/Main board/s1">
+      <node ref="J403" pin="6" pintype="passive"/>
+      <node ref="R401" pin="1" pintype="passive"/>
+      <node ref="U404" pin="11" pinfunction="GP1" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/Main board/s2">
+      <node ref="J404" pin="6" pintype="passive"/>
+      <node ref="R402" pin="1" pintype="passive"/>
+      <node ref="U404" pin="12" pinfunction="GP2" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/Main board/s3">
+      <node ref="J405" pin="6" pintype="passive"/>
+      <node ref="R403" pin="1" pintype="passive"/>
+      <node ref="U404" pin="15" pinfunction="GP5" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/Main board/s4">
+      <node ref="J406" pin="6" pintype="passive"/>
+      <node ref="R404" pin="1" pintype="passive"/>
+      <node ref="U404" pin="16" pinfunction="GP6" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/Main board/s5">
+      <node ref="J410" pin="6" pintype="passive"/>
+      <node ref="R416" pin="1" pintype="passive"/>
+      <node ref="U404" pin="17" pinfunction="GP7" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/Main board/v1">
+      <node ref="Q301" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R301" pin="1" pintype="passive"/>
+      <node ref="U403" pin="6" pinfunction="MOSI/D7" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/Main board/v2">
+      <node ref="Q302" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R302" pin="1" pintype="passive"/>
+      <node ref="U403" pin="5" pinfunction="MISO/D6" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/Main board/v3">
+      <node ref="Q303" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R303" pin="1" pintype="passive"/>
+      <node ref="U403" pin="4" pinfunction="SCK/D5" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/Main board/v4">
+      <node ref="Q304" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R304" pin="1" pintype="passive"/>
+      <node ref="U403" pin="13" pinfunction="SDA/D2" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/Main board/v5">
+      <node ref="Q305" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R305" pin="1" pintype="passive"/>
+      <node ref="U403" pin="14" pinfunction="SCL/D1" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="GND">
+      <node ref="C301" pin="2" pintype="passive"/>
+      <node ref="C401" pin="2" pintype="passive"/>
+      <node ref="C402" pin="2" pintype="passive"/>
+      <node ref="C403" pin="2" pintype="passive"/>
+      <node ref="C404" pin="2" pintype="passive"/>
+      <node ref="J401" pin="2" pintype="passive"/>
+      <node ref="J402" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J403" pin="1" pintype="passive"/>
+      <node ref="J404" pin="1" pintype="passive"/>
+      <node ref="J405" pin="1" pintype="passive"/>
+      <node ref="J406" pin="1" pintype="passive"/>
+      <node ref="J407" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J410" pin="1" pintype="passive"/>
+      <node ref="Q301" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q302" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q303" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q304" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q305" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R301" pin="2" pintype="passive"/>
+      <node ref="R302" pin="2" pintype="passive"/>
+      <node ref="R303" pin="2" pintype="passive"/>
+      <node ref="R304" pin="2" pintype="passive"/>
+      <node ref="R305" pin="2" pintype="passive"/>
+      <node ref="U401" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U402" pin="1" pinfunction="A0" pintype="input"/>
+      <node ref="U402" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U402" pin="2" pinfunction="A1" pintype="input"/>
+      <node ref="U402" pin="21" pinfunction="A2" pintype="input"/>
+      <node ref="U403" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U404" pin="3" pinfunction="A2" pintype="input"/>
+      <node ref="U404" pin="4" pinfunction="A1" pintype="input"/>
+      <node ref="U404" pin="5" pinfunction="A0" pintype="input"/>
+      <node ref="U404" pin="9" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="21" name="Net-(D301-Pad2)">
+      <node ref="D301" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J303" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q301" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D302-Pad2)">
+      <node ref="D302" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J304" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q302" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D303-Pad2)">
+      <node ref="D303" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J305" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q303" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D304-Pad2)">
+      <node ref="D304" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J306" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q304" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D305-Pad2)">
+      <node ref="D305" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J307" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q305" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D306-Pad2)">
+      <node ref="D306" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U401" pin="3" pinfunction="Vout" pintype="power_out"/>
+    </net>
+    <net code="27" name="Net-(J201-Pad2)">
+      <node ref="J201" pin="2" pintype="passive"/>
+      <node ref="J202" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U301" pin="1" pinfunction="Vcc" pintype="power_in"/>
+    </net>
+    <net code="28" name="Net-(J201-Pad3)">
+      <node ref="J201" pin="3" pintype="passive"/>
+      <node ref="J202" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U301" pin="2" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="Net-(J201-Pad5)">
+      <node ref="J201" pin="5" pintype="passive"/>
+      <node ref="J202" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U301" pin="4" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="Net-(J201-Pad6)">
+      <node ref="J201" pin="6" pintype="passive"/>
+      <node ref="J301" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(J203-Pad2)">
+      <node ref="J203" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J205" pin="6" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(J204-Pad2)">
+      <node ref="J204" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J205" pin="2" pintype="passive"/>
+      <node ref="U201" pin="1" pinfunction="Vcc" pintype="power_in"/>
+    </net>
+    <net code="33" name="Net-(J204-Pad3)">
+      <node ref="J204" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J205" pin="3" pintype="passive"/>
+      <node ref="U201" pin="2" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="Net-(J204-Pad4)">
+      <node ref="J204" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J205" pin="5" pintype="passive"/>
+      <node ref="U201" pin="4" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="Net-(J402-Pad3)">
+      <node ref="J402" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R419" pin="1" pintype="passive"/>
+      <node ref="U402" pin="19" pinfunction="SD7" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="Net-(J402-Pad4)">
+      <node ref="J402" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R420" pin="1" pintype="passive"/>
+      <node ref="U402" pin="20" pinfunction="SC7" pintype="output"/>
+    </net>
+    <net code="37" name="Net-(J403-Pad3)">
+      <node ref="J403" pin="3" pintype="passive"/>
+      <node ref="R412" pin="2" pintype="passive"/>
+      <node ref="U402" pin="4" pinfunction="SD0" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="Net-(J403-Pad5)">
+      <node ref="J403" pin="5" pintype="passive"/>
+      <node ref="R408" pin="2" pintype="passive"/>
+      <node ref="U402" pin="5" pinfunction="SC0" pintype="output"/>
+    </net>
+    <net code="39" name="Net-(J404-Pad3)">
+      <node ref="J404" pin="3" pintype="passive"/>
+      <node ref="R413" pin="2" pintype="passive"/>
+      <node ref="U402" pin="6" pinfunction="SD1" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="Net-(J404-Pad5)">
+      <node ref="J404" pin="5" pintype="passive"/>
+      <node ref="R409" pin="2" pintype="passive"/>
+      <node ref="U402" pin="7" pinfunction="SC1" pintype="output"/>
+    </net>
+    <net code="41" name="Net-(J405-Pad3)">
+      <node ref="J405" pin="3" pintype="passive"/>
+      <node ref="R414" pin="2" pintype="passive"/>
+      <node ref="U402" pin="8" pinfunction="SD2" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="Net-(J405-Pad5)">
+      <node ref="J405" pin="5" pintype="passive"/>
+      <node ref="R410" pin="2" pintype="passive"/>
+      <node ref="U402" pin="9" pinfunction="SC2" pintype="output"/>
+    </net>
+    <net code="43" name="Net-(J406-Pad3)">
+      <node ref="J406" pin="3" pintype="passive"/>
+      <node ref="R415" pin="2" pintype="passive"/>
+      <node ref="U402" pin="10" pinfunction="SD3" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="Net-(J406-Pad5)">
+      <node ref="J406" pin="5" pintype="passive"/>
+      <node ref="R411" pin="2" pintype="passive"/>
+      <node ref="U402" pin="11" pinfunction="SC3" pintype="output"/>
+    </net>
+    <net code="45" name="Net-(J408-Pad2)">
+      <node ref="J408" pin="2" pintype="passive"/>
+      <node ref="J409" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U501" pin="1" pinfunction="Vcc" pintype="power_in"/>
+    </net>
+    <net code="46" name="Net-(J408-Pad3)">
+      <node ref="J408" pin="3" pintype="passive"/>
+      <node ref="J409" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U501" pin="2" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="Net-(J408-Pad5)">
+      <node ref="J408" pin="5" pintype="passive"/>
+      <node ref="J409" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U501" pin="4" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="Net-(J408-Pad6)">
+      <node ref="J408" pin="6" pintype="passive"/>
+      <node ref="J501" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(J410-Pad3)">
+      <node ref="J410" pin="3" pintype="passive"/>
+      <node ref="R418" pin="2" pintype="passive"/>
+      <node ref="U402" pin="13" pinfunction="SD4" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="Net-(J410-Pad5)">
+      <node ref="J410" pin="5" pintype="passive"/>
+      <node ref="R417" pin="2" pintype="passive"/>
+      <node ref="U402" pin="14" pinfunction="SC4" pintype="output"/>
+    </net>
+    <net code="51" name="Net-(J601-Pad2)">
+      <node ref="J601" pin="2" pintype="passive"/>
+      <node ref="J602" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U701" pin="1" pinfunction="Vcc" pintype="power_in"/>
+    </net>
+    <net code="52" name="Net-(J601-Pad3)">
+      <node ref="J601" pin="3" pintype="passive"/>
+      <node ref="J602" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U701" pin="2" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="Net-(J601-Pad5)">
+      <node ref="J601" pin="5" pintype="passive"/>
+      <node ref="J602" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U701" pin="4" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="Net-(J601-Pad6)">
+      <node ref="J601" pin="6" pintype="passive"/>
+      <node ref="J701" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(J702-Pad2)">
+      <node ref="J702" pin="2" pintype="passive"/>
+      <node ref="J703" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U801" pin="1" pinfunction="Vcc" pintype="power_in"/>
+    </net>
+    <net code="56" name="Net-(J702-Pad3)">
+      <node ref="J702" pin="3" pintype="passive"/>
+      <node ref="J703" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U801" pin="2" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="Net-(J702-Pad5)">
+      <node ref="J702" pin="5" pintype="passive"/>
+      <node ref="J703" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U801" pin="4" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="Net-(J702-Pad6)">
+      <node ref="J702" pin="6" pintype="passive"/>
+      <node ref="J801" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(R405-Pad1)">
+      <node ref="R405" pin="1" pintype="passive"/>
+      <node ref="U402" pin="22" pinfunction="SCL" pintype="input"/>
+      <node ref="U403" pin="12" pinfunction="D3" pintype="bidirectional"/>
+      <node ref="U404" pin="1" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="60" name="Net-(R406-Pad1)">
+      <node ref="R406" pin="1" pintype="passive"/>
+      <node ref="U402" pin="23" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U403" pin="11" pinfunction="D4" pintype="bidirectional"/>
+      <node ref="U404" pin="2" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="Net-(R407-Pad1)">
+      <node ref="R407" pin="1" pintype="passive"/>
+      <node ref="U402" pin="3" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="U403" pin="3" pinfunction="D0" pintype="bidirectional"/>
+      <node ref="U404" pin="6" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="62" name="unconnected-(J201-Pad4)">
+      <node ref="J201" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(J205-Pad4)">
+      <node ref="J205" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(J401-Pad3)">
+      <node ref="J401" pin="3" pintype="passive+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(J403-Pad4)">
+      <node ref="J403" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(J404-Pad4)">
+      <node ref="J404" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(J405-Pad4)">
+      <node ref="J405" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(J406-Pad4)">
+      <node ref="J406" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(J408-Pad4)">
+      <node ref="J408" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(J410-Pad4)">
+      <node ref="J410" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(J601-Pad4)">
+      <node ref="J601" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(J702-Pad4)">
+      <node ref="J702" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U402-Pad15)">
+      <node ref="U402" pin="15" pinfunction="SD5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U402-Pad16)">
+      <node ref="U402" pin="16" pinfunction="SC5" pintype="output+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U402-Pad17)">
+      <node ref="U402" pin="17" pinfunction="SD6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U402-Pad18)">
+      <node ref="U402" pin="18" pinfunction="SC6" pintype="output+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U403-Pad1)">
+      <node ref="U403" pin="1" pinfunction="~{RST}" pintype="input+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U403-Pad2)">
+      <node ref="U403" pin="2" pinfunction="A0" pintype="input+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U403-Pad7)">
+      <node ref="U403" pin="7" pinfunction="CS/D8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U403-Pad15)">
+      <node ref="U403" pin="15" pinfunction="RX" pintype="input+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U403-Pad16)">
+      <node ref="U403" pin="16" pinfunction="TX" pintype="output+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(U404-Pad7)">
+      <node ref="U404" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U404-Pad8)">
+      <node ref="U404" pin="8" pinfunction="INT" pintype="output+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(U404-Pad13)">
+      <node ref="U404" pin="13" pinfunction="GP3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U404-Pad14)">
+      <node ref="U404" pin="14" pinfunction="GP4" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>

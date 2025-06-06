@@ -1,0 +1,17 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 629ad0ea-5c5f-4dae-8a12-443935aac67b)
+
+  (paper "A4")
+
+  (title_block
+    (title "Filament storage")
+    (date "2024-04-28")
+    (rev "1")
+    (company "Lili's Proto Lab")
+  )
+
+  (lib_symbols
+  )
+
+)
